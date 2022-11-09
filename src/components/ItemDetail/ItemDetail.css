@@ -1,0 +1,24 @@
+.container2{
+    display: inline;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.itembox{
+    box-shadow:-1px 6px 28px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 6px 28px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 6px 28px -3px rgba(0,0,0,0.75);
+}
+
+
+.finish{
+    text-decoration: none;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
