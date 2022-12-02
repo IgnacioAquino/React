@@ -3,3 +3,46 @@
     justify-content: center;
     align-items: center;
 }
+
+.ttprice{
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ttprod{
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-weight: bold;
+    
+}
+
+.tt{
+    text-decoration: none;
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.ttprice{
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    margin-right: 100px;
+    
+}
+
+.ttrc{
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+}
